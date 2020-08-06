@@ -2,13 +2,13 @@
 
 #### My profile: 
 
-Linkedin: https://www.linkedin.com/in/solange-domingues-oficial/
-
-Instagram: https://www.instagram.com/solange.domingues.oficial/
+My Site: http://www.solangedomingues.com.br 
 
 Youtube: https://www.youtube.com/channel/UCSqkZJmKDuG0N8DOMoLmKvw
 
-My Site: http://www.solangedomingues.com.br 
+Linkedin: https://www.linkedin.com/in/solange-domingues-oficial/
+
+Instagram: https://www.instagram.com/solange.domingues.oficial/
 
 
 <!--
