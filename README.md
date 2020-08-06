@@ -2,7 +2,7 @@
 
 #### My profile: 
 
-Linkedin: https://www.linkedin.com/feed/
+Linkedin: https://www.linkedin.com/in/solange-domingues-oficial/
 
 Instagram: https://www.instagram.com/solange.domingues.oficial/
 
