@@ -4,9 +4,9 @@
 
 Linkedin: https://www.linkedin.com/feed/
 
-Insta: https://www.instagram.com/solange.domingues.oficial/
+Instagram: https://www.instagram.com/solange.domingues.oficial/
 
-Channel: https://www.youtube.com/channel/UCSqkZJmKDuG0N8DOMoLmKvw
+Youtube: https://www.youtube.com/channel/UCSqkZJmKDuG0N8DOMoLmKvw
 
 My Site: http://www.solangedomingues.com.br 
 
