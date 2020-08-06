@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+#### My profile: 
+
+Linkedin: https://www.linkedin.com/feed/
+
+Insta: https://www.instagram.com/solange.domingues.oficial/
+
+Channel: https://www.youtube.com/channel/UCSqkZJmKDuG0N8DOMoLmKvw
+
+My Site: http://www.solangedomingues.com.br 
+
+
 <!--
 **soldomingues/soldomingues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
