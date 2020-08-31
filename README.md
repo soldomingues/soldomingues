@@ -2,7 +2,7 @@
 
  - 💙 In love with programming.
  - ⚡ Skills: Java, Spring Boot, Spring Data, Spring Test, JUnit, Mokito, Maven, Bootstrap, OracleDB, SharePoint, PowerShell, SQL Server, Windows Server, IIS,  JavaScript.
- - 📚 Currently learning AWS.
+ - 📚 Currently learning AWS and Microservices.
  - 😄 In my free time I usually take pictures, dance ballet, gym and travel.
  
  ----
