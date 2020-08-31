@@ -1,4 +1,4 @@
-# Hello! 👋 Welcome to my profile :woman_technologist
+# Hello! 👋 Welcome to my profile :woman_technologist:
 
  - 💙 In love with programming.
  - ⚡ Skills: Java, Spring Boot, Spring Data, Spring Test, JUnit, Mokito, Maven, Bootstrap, OracleDB, SharePoint, PowerShell, SQL Server, Windows Server, IIS,  JavaScript.
