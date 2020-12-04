@@ -6,4 +6,4 @@
  - 😄 In my free time I like to take pictures, dance ballet, go to the gym and travel.
  
  ----
-[My Site](http://www.solangedomingues.com.br) | [Youtube](https://www.youtube.com/channel/UCSqkZJmKDuG0N8DOMoLmKvw) | [Linkedin](https://www.linkedin.com/in/solangedomingues/) | [Instagram](https://www.instagram.com/solangedomingues._/) | [Stack Overflow](https://stackoverflow.com/users/story/14070976)
+[My Site](http://www.solangedomingues.com.br) | [Youtube](https://www.youtube.com/channel/UCSqkZJmKDuG0N8DOMoLmKvw) | [Linkedin](https://www.linkedin.com/in/solangedomingues/) | [Stack Overflow](https://stackoverflow.com/users/story/14070976)
